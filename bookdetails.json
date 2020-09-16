@@ -1,0 +1,125 @@
+[
+  {
+    "title": "cComputer Fundamentals and Programming in C Paperback",
+    "price": "INR.451",
+    "description": "It provides a thorough understanding of the subject and its applications. The book begins with an introduction to the basic features of a digital computer",
+    "url": "https://www.amazon.in/dp/0198084560/ref=s9_acsd_omg_hd_bw_bFliJr5_c2_x_0_t?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-11&pf_rd_r=KHN0TKNQKXTSY1SR77FK&pf_rd_t=101&pf_rd_p=c9bd988e-6664-5080-8da7-9c0d5886e373&pf_rd_i=14447043031"
+  },
+    {
+    "title": "Android Apprentice",
+    "price": "$54.99",
+    "description": "Build four complete Android apps from scratch using Kotlin! The Android Apprentice is our book for complete beginners to Android development.",
+    "url": "https://store.raywenderlich.com/products/android-apprentice"
+    },
+  {
+    "title": "Kotlin Apprentice",
+    "price": "$54.99",
+    "description": "Learn programming with Kotlin! The Kotlin Apprentice is a book designed for complete beginners to Kotlin, a modern language used for Android development.",
+    "url": "https://store.raywenderlich.com/products/kotlin-apprentice"
+    },
+  {
+    "title": "Swift Apprentice",
+    "price": "$54.99",
+    "description": "Beginning programming with Swift 4.2. This book takes you from beginner to advanced in Swift: Apple’s new, modern programming language for iOS.",
+    "url": "https://store.raywenderlich.com/products/swift-apprentice"
+    },
+  {
+    "title": "Machine Learning by Tutorials",
+    "price": "$54.99",
+    "description": "The best book on machine learning for iOS. Covers CoreML, Vision, image and sequence classifiers, natural language processors, and more.",
+    "url": "https://store.raywenderlich.com/products/machine-learning-by-tutorials"
+    },
+  {
+    "title": "Kotlin Coroutines by Tutorials",
+    "price": "$54.99",
+    "description": "Android is inherently asynchronous and event-driven, with strict requirements as to on which thread certain things can happen. Learn how to use coroutines...",
+    "url": "https://store.raywenderlich.com/products/kotlin-coroutines-by-tutorials"
+   },
+  {
+    "title": "Advanced Android App Architecture",
+    "price": "$54.99",
+    "description": "In Advanced Android App Architectures, you'll find a diverse and hands-on approach to architecting your apps on Android. Learn how to build...",
+    "url": "https://store.raywenderlich.com/products/advanced-android-app-architecture"
+   },
+  {
+    "title": "Advanced iOS App Architecture",
+    "price": "$54.99",
+    "description": "This book takes a deep dive into modern iOS app architecture and shows you how to design clean and maintainable real-world apps.",
+    "url": "https://store.raywenderlich.com/products/advanced-ios-app-architecture"
+    },
+  {
+    "title": "Push Notifications by Tutorials",
+    "price": "$39.99",
+    "description": "In this book, you'll master iOS push notifications. Take a deep dive into rich media notifications, notification actions, grouped notifications and more.",
+    "url": "https://store.raywenderlich.com/products/push-notifications-by-tutorials"
+   },
+  {
+    "title": "Realm",
+    "price": "$54.99",
+    "description": "In this Realm book, you'll learn how to build modern Swift apps with the persistence and synchronization of Realm Database and Realm Cloud.",
+    "url": "https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database"
+   },
+  {
+    "title": "Core Data by Tutorials",
+    "price": "$54.99",
+    "description": "In this book, you'll master Core Data in iOS using Swift 4. Comprehensive coverage of Core Data, from beginner to advanced topics.",
+    "url": "https://store.raywenderlich.com/products/core-data-by-tutorials"
+ },
+  {
+    "title": "iOS Animations by Tutorials",
+    "price": "$54.99",
+    "description": "A book on creating delightful iOS animations in Swift 4. From beginning to advanced topics like layer animations, view controller transitions, and more.",
+    "url": "https://store.raywenderlich.com/products/ios-animations-by-tutorials"
+  },
+   
+  {
+    "title": "Advanced Apple Debugging & Reverse Engineering",
+    "price": "$54.99",
+    "description": "Explore code with LLDB to discover more about any program than you ever thought possible.",
+    "url": "https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering"
+    },
+  {
+    "title": "ARKit by Tutorials",
+    "price": "$54.99",
+    "description": "In this book, you'll use Apple's augmented reality framework ARKit to build 5 great-looking AR apps in Swift, including portals, tabletop games, and more",
+    "url": "https://store.raywenderlich.com/products/arkit-by-tutorials"
+  },
+   
+  {
+    "title": "Server Side Swift with Vapor",
+    "price": "$54.99",
+    "description": "The definitive book on building web apps and web APIs using Server Side Swift with Vapor, written by the creators of the Vapor 3 framework.",
+    "url": "https://store.raywenderlich.com/products/server-side-swift-with-vapor"
+  },
+    
+  {
+    "title": "RxSwift: Reactive Programming with Swift",
+    "price": "$54.99",
+    "description": "Leverage the power of RxSwift in your reactive apps! In this RxSwift book, you'll learn how to integrate RxSwift into real-world iOS apps.",
+    "url": "https://store.raywenderlich.com/products/rxswift-reactive-programming-with-swift"
+     },
+  {
+    "title": "watchOS by Tutorials",
+    "price": "$54.99",
+    "description": "Make Apple Watch apps with Swift 4! Learn all about the WatchKit framework, snapshots, notifications, complications, and much, much more!",
+    "url": "https://store.raywenderlich.com/products/watchos-by-tutorials"
+    },
+  {
+    "title": "tvOS Apprentice",
+    "price": "$54.99",
+    "description": "Learn how to make tvOS apps from the ground up, with a series of tutorials for complete beginners! This book teaches you both UIKit and TVML-based tvOS apps.",
+    "url": "https://store.raywenderlich.com/products/tvos-apprentice"
+    },
+  {
+    "title": "Unity Games by Tutorials",
+    "price": "$54.99",
+    "description": "The best Unity book for beginners. Create 4 complete Unity games for scratch, including a first-person shooter, a tower defense game, and more.",
+    "url": "https://store.raywenderlich.com/products/unity-games-by-tutorials"
+    },
+  {
+    "title": "Unity AR & VR by Tutorials",
+    "price": "$54.99",
+    "description": "Build four immersive AR and VR apps from scratch in Unity!",
+    "url": "https://store.raywenderlich.com/products/unity-ar-and-vr-by-tutorials"
+    }
+]
